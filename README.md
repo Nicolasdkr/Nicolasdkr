@@ -1,68 +1,70 @@
-<h1 align="center">Hi , I'm Nicolás <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Analyst Programmer student interested in development and web technologies.</h3>
-
-	
-## <picture><img src = "https://i.pinimg.com/originals/79/2c/86/792c86ad891599af7d0042c39e329efc.gif" width = 50px></picture> About me!
-
-<picture> <img align="right" src="https://media1.tenor.com/m/BRXs-892d5sAAAAd/code-coder.gif" width = 350px></picture>
-
-<br>
-
-- :school: I am currently studying `Computer Programming` at `INACAP`.
-- :technologist: I enjoy using software to solve real-world `problems` and create practical solutions.
-- :seedling: I'm `adaptable`, quick to learn, and always looking for ways to improve.
-- :handshake: I work well in a `team`, follow guidelines effectively, and contribute whenever I can.
-- :wrench: I enjoy facing new `challenges`, especially those that help me grow as a developer.
-- :page_facing_up: I am currently looking for a professional `internship` (360 hours) starting in `January`.
-- :rocket: I’m open to new opportunities and ready to take on responsibilities that help me continue learning.
-<br>
-
-## <picture> <img src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif" width="40px"> My Skills
-
-### 🛠 &nbsp;Tech Stack
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-
-
-
-### 🗃 &nbsp;Databases
-
-![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-
-
-### 🧰 &nbsp;Version Control & Tools
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-
-<br>
-
-## <picture> <img src="https://media.tenor.com/ju4PztDv8WcAAAAj/firstrequestrecords-first-request.gif" width = 30px> </picture> Connect with Me
+<h1 align="center">Nicolás Maldonado</h1>
 <p align="center">
-  <a href="mailto:nicolasmaldonado418@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/nicolas-maldonado-a8519739b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/569XXXXXXXX">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  <b>Analista Programador · Full Stack Developer</b><br>
+  TypeScript · Node.js · C# / .NET · SQL
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicolas-maldonado-a8519739b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:nicolasmaldonado418@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/📍_Punta_Arenas,_Chile-555?style=flat-square" alt="Ubicación">
+  <img src="https://img.shields.io/badge/Disponible_para_trabajar-2ea44f?style=flat-square" alt="Disponible">
+</p>
+
+---
+
+## 👋 Sobre mí
+
+Soy **Analista Programador titulado de INACAP**, enfocado en el desarrollo **Full Stack** de aplicaciones web.
+Me gusta construir software que resuelva problemas reales, con código limpio, arquitectura en capas y bases de datos bien modeladas.
+
+- 💼 Busco mi **primera oportunidad como desarrollador** (Junior Full Stack / Backend), presencial o remoto.
+- 🔧 Trabajo con **REST APIs**, ORMs, bases de datos relacionales y entornos con **Docker**.
+- 📚 Actualmente profundizando en **React**, **testing** (Vitest) y **CI/CD** con GitHub Actions.
+- 🤝 Acostumbrado a trabajar en equipo con metodologías ágiles (Jira, Trello).
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [**Helpdesk Lite**](https://github.com/Nicolasdkr/helpdesk-lite) | Sistema de gestión de tickets de soporte TI: reporte, asignación, priorización y seguimiento de incidencias. Arquitectura en capas, validación con Zod y entorno dockerizado. | TypeScript · Express · Prisma · PostgreSQL · Docker |
+| [**Librería Sparrow**](https://github.com/Nicolasdkr/LibreriaSparrow) | Sistema de gestión y venta en línea para una librería. Reescritura de un proyecto académico (Flask + MongoDB) aplicando Controllers → Services → Repositories. | C# · ASP.NET Core · EF Core · SQL Server |
+
+## 🛠️ Tech Stack
+
+**Lenguajes**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Bases de datos**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**DevOps y herramientas**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+
+---
+
+<p align="center"><i>¿Tienes una oportunidad o un proyecto en mente? Escríbeme por LinkedIn o email.</i></p>
